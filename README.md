@@ -12,15 +12,15 @@
     <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb&logoColor=white&style=flat-square" />
     <img src="https://img.shields.io/badge/Cloud-Firebase-orange?logo=firebase&logoColor=white&style=flat-square" />
 </p>
----
+
 
 ## 🎯 About Me
 I am a passionate developer with a keen interest in building efficient, user-friendly applications. I thrive on solving complex problems and turning innovative ideas into reality.
 
-- 🌍 Based in: **[Your Location]**
-- 🎓 Education: **[Your Degree]**
+- 🌍 Based in: **Batticaloa,Sri Lanka**
+- 🎓 Education: **Diploma in Information Technology**
 - 🏆 Certifications: **[List of Your Certifications]**
-- 💼 Working on: **[Your Current Projects]**
+- 💼 Working on: **TapOn App Development**
 
 ---
 
