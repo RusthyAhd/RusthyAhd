@@ -1,6 +1,18 @@
 # 🚀 Welcome to [Rusthy Ahd's](https://github.com/RusthyAhd) GitHub Profile!
 
-![Header](https://your-custom-header-image-url)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Technologies+Developer;Open+to+Collaborations+%F0%9F%91%8B;Focused+on+Innovative+Tech+Solutions" />
+</p>
+
+---
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Code-Flutter-blue?logo=flutter&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Code-Node.js-green?logo=node.js&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Cloud-Firebase-orange?logo=firebase&logoColor=white&style=flat-square" />
+</p>
+---
 
 ## 🎯 About Me
 I am a passionate developer with a keen interest in building efficient, user-friendly applications. I thrive on solving complex problems and turning innovative ideas into reality.
