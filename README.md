@@ -105,4 +105,4 @@ I am a passionate developer with a keen interest in building efficient, user-fri
 ## 📝 Contact Me
 Feel free to reach out if you want to collaborate on any projects or just say hi!
 
-- 📧 Email: **[rusthyahamed2001@example.com]**
+- 📧 Email: **[rusthyahamed2001@gmail.com]**
